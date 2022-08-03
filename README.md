@@ -10,4 +10,4 @@ Hi, I'm Anna from Taiwan. :>
 
 :heart: I love to web design and photography. 
 
-I've done some tutorials and small projects, which taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [JSM](https://www.youtube.com/c/JavaScriptMastery), and some other tutors on Youtube.
+I've done some tutorials and small projects, which are taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [JSM](https://www.youtube.com/c/JavaScriptMastery), and some other tutors on Youtube.
