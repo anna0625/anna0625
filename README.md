@@ -2,7 +2,7 @@ Hi, I'm Anna from Taiwan. :>
 
 :round_pushpin: currently lives in Melbourne.
 
-:briefcase: I'm a recent graduate and junior front-end web developer. 
+:🎓: a recent graduate and junior front-end web developer. 
 
 :computer: I work with React. 
 
