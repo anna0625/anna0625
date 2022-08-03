@@ -4,9 +4,9 @@ Hi, I'm Anna from Taiwan. :>
 
 🎓 a recent graduate and junior front-end web developer. 
 
-:ninja: I'm skilled at React | MaterialUI. 
+:ninja: skilled at React | MaterialUI. 
 
-:heart: I love [photography](https://lightroom.app.link/FtABlusKbsb). 
+:heart: love [photography](https://lightroom.app.link/FtABlusKbsb). 
 
 I've done some tutorials and small projects,   
 which are taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery),   
