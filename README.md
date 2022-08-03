@@ -8,6 +8,8 @@ Hi, I'm Anna from Taiwan. :>
 
 :ninja: I'm skilled at React | MaterialUI. 
 
-:heart: I love to web design and photography. 
+:heart: I love to web design and [photography](https://lightroom.app.link/FtABlusKbsb). 
 
-I've done some tutorials and small projects, which are taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [JSM](https://www.youtube.com/c/JavaScriptMastery), and some other tutors on Youtube.
+I've done some tutorials and small projects, 
+which are taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery), 
+and some other tutors on Youtube.
