@@ -1,7 +1,7 @@
-Hi, I'm Anna, a recent graduate and junior front-end web developer. :>
+Hi, I'm Anna. :>
 
-:round_pushpin: from Taiwan.
-:briefcase: a recent graduate and junior front-end web developer.
-:computer: I work with React.
-:ninja: I'm skilled at React | MaterialUI.
-:heart: I love to web design and photography.
+:round_pushpin: from Taiwan. 
+:briefcase: a recent graduate and junior front-end web developer. 
+:computer: I work with React. 
+:ninja: I'm skilled at React | MaterialUI. 
+:heart: I love to web design and photography. 
