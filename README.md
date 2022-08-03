@@ -1,3 +1,1 @@
-Hi, I'm Anna.
-
-A student doing IT at Unimelb and interested in Web Dev. :>
+Hi, I'm Anna, a recent graduate and junior front-end web developer. :>
