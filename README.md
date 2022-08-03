@@ -1,6 +1,6 @@
-Hi, I'm Anna. :>
+Hi, I'm Anna from Taiwan. :>
 
-:round_pushpin: I'm from Taiwan and currently lives in Melbourne.
+:round_pushpin: currently lives in Melbourne.
 
 :briefcase: I'm a recent graduate and junior front-end web developer. 
 
