@@ -2,7 +2,7 @@ Hi, I'm Anna from Taiwan. :>
 
 :round_pushpin: currently lives in Melbourne.
 
-🎓 a recent graduate with a Master of IT from Unimelb. 
+🎓 a recent graduate with a [Master of IT from Unimelb](/Document.pdf). 
 
 :ninja: skilled at React | MaterialUI. 
 
