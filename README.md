@@ -1,6 +1,6 @@
-👋 Hi, I'm Anna from Taiwan. :>
+👋 Hi, I'm Anna from Taiwan 🇹🇼.
 
-:round_pushpin: lives in Melbourne currently .
+:round_pushpin: lives in Melbourne currently 🇦🇺.
 
 🎓 a recent graduate with a [Master of IT from Unimelb](/Document.pdf). 
 
