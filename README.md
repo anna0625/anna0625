@@ -6,7 +6,7 @@ Hi, I'm Anna from Taiwan. :>
 
 :ninja: skilled at React | MaterialUI. 
 
-👩 English(advanced), Taiwanese(good), Mandarin(native)
+👩 speak English(advanced), Taiwanese(good), Mandarin(native)
 
 :heart: love [photography](https://lightroom.app.link/FtABlusKbsb). 
 
