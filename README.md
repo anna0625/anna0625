@@ -10,4 +10,4 @@ Hi, I'm Anna from Taiwan. :>
 
 I've done some tutorials and small projects,   
 which are taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja)(my favourite teacher!),  
-[Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery), and some other tutors on Youtube.
+[Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery), [Dev Ed](https://www.youtube.com/c/DevEd) and some other tutors on Youtube.
