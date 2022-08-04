@@ -1,4 +1,4 @@
-Hi, I'm Anna from Taiwan. :>
+👋 Hi, I'm Anna from Taiwan. :>
 
 :round_pushpin: lives in Melbourne currently .
 
