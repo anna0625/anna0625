@@ -4,7 +4,7 @@
 
 🎓 a recent graduate with a [Master of IT from Unimelb](/Document.pdf). 
 
-:ninja: skilled at React | MaterialUI. 
+:ninja: skilled at React. 
 
 👩 speak English(advanced), Taiwanese(good), Mandarin(native)
 
