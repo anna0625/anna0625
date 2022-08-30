@@ -14,7 +14,7 @@
 
 
 
-🖋 I've done some tutorials and small projects, which are taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery), [Traversy Media](https://www.youtube.com/c/TraversyMedia)(my favourite teacher!), [Dev Ed](https://www.youtube.com/c/DevEd) and some other greate teachers on Youtube.
+🖋 I've done some tutorials and small projects, which are taught by [The Net Ninja](https://www.youtube.com/c/TheNetNinja), [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery), [Traversy Media](https://www.youtube.com/c/TraversyMedia), [Dev Ed](https://www.youtube.com/c/DevEd) and some other greate teachers on Youtube.
 
 
 
