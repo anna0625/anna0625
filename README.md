@@ -10,7 +10,7 @@
 
 :heart: love [photography](https://lightroom.app.link/FtABlusKbsb). 
 
-☀️ MY RESUME IS [HERE](/anna-resume-doc.pdf)!
+☀️ MY [RESUME](/anna-resume-doc.pdf) & [FACTOR-TRAIT-REPORT](/factor-trait-report_hanfang-cheng.pdf)!
 
 
 
