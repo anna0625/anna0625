@@ -2,15 +2,17 @@
 
 :round_pushpin: live in Melbourne currently.
 
-🎓 a recent graduate with a [Master of IT from Unimelb](/Document.pdf). 
+🎓 a recent graduate with a [Master of IT from Unimelb](/Document.pdf)
 
 :ninja: skilled at **React**. 
 
 👩 speak English(advanced), Taiwanese(good), Mandarin(native)
 
-:heart: love [photography](https://lightroom.app.link/FtABlusKbsb). 
+:heart: love [photography](https://lightroom.app.link/FtABlusKbsb)
 
-☀️ MY [RESUME](/anna-resume-doc.pdf) & [FACTOR-TRAIT-REPORT](/factor-trait-report_hanfang-cheng.pdf)!
+👩‍💻 My [Codepen](https://codepen.io/anna625)
+
+☀️ My [RESUME](/anna-resume-doc.pdf) & [FACTOR-TRAIT-REPORT](/factor-trait-report_hanfang-cheng.pdf)!
 
 
 
