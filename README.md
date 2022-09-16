@@ -2,7 +2,7 @@
 
 :round_pushpin: live in Melbourne currently.
 
-🎓 a recent graduate with a [Master of IT from Unimelb](/Document.pdf)
+🎓 a recent graduate with a [Master of IT at Unimelb](/Document.pdf)
 
 :ninja: skilled at **React**. 
 
