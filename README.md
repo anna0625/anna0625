@@ -1,4 +1,4 @@
-[My Portfolio Website](https://annacheng-site.vercel.app/) using React and TailwindCSS.
+[My Portfolio Website](https://annacheng-site.vercel.app/) built with React and TailwindCSS.
 
 Hi, I'm Anna from Taiwan, living in Melbourne currently. A recent graduate with a [Master of IT at Unimelb](/Document.pdf), skilled at **React** / **Next.js** / **GraphQL** / **Tailwind CSS**. Speak English(advanced), Taiwanese(good), Mandarin(native). Love [Photography](https://lightroom.app.link/FtABlusKbsb).
 
